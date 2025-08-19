@@ -1,0 +1,1 @@
+"use strict";!function(){function n(){var n=.01*window.innerHeight;document.documentElement.style.setProperty("--vh","".concat(n,"px"))}n(),window.addEventListener("resize",n)}(),window.addEventListener("orientationchange",function(){window.location.reload()});
